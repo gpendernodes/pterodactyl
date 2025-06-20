@@ -1,5 +1,5 @@
 #!/bin/bash
-# Made by unnamed
+# Made by MrXelvor
 
 echo "📦 Installing Pterodactyl Panel with Docker..."
 
